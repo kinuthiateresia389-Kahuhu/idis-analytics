@@ -1,0 +1,5 @@
+latitude,longitude,incident_type,severity
+-0.0051,34.6036,Flooding Area,Critical
+-0.0020,34.6100,Flash Flood Zone,High
+-0.0100,34.5950,Structural Collapse,Severe
+-0.0075,34.6050,Power Grid Failure,Moderate
